@@ -5,6 +5,8 @@ In order to use this notebook you must download 3 different datasets, keeping th
 The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data. This data is updated daily. This version was Collected on 10/30/22.
 https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university
 
+Note: This dataset is too large to push to the repository, so it is not included at initial pull!
+
 The CDC dataset of masking mandates by county. Note that the CDC stopped collecting this policy information in September 2021.
 https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i
 
