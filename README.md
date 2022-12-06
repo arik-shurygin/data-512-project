@@ -20,6 +20,9 @@ Running the project_part_2_crime notebook will generate insights about how crime
 2) Lock down increased domestic abuse by 20% as victims no longer could avoid their abusive partners and were more likely to be stuck in the home with them.
 3) Stimulus checks reduced robbery and financial crimes by up to 10%, as people could finally put food on their tables, even for a week or two
 
+Crime in Denver County by Date was found via the Denver Open Data Catalog here: https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime
+The datasets from 2013 - current were used.
+
 We consider the "begining" of the pandemic to be January 10th 2020 according to the CDC covid museum: https://www.cdc.gov/museum/timeline/covid19.html#:~:text=January%2010%2C%202020,%2DnCoV)%20on%20its%20website. 
 
 Mask Mandate implementation dates were sourced from from: https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i
